@@ -10,12 +10,17 @@ def crear_usuario(nombre):
     return {
         "nombre": nombre,
 
-        "inventario": {},
-
+        "inventario": {
+        },
         "habilidades": {
             "exploracion": 1,
             "carpinteria": 1,
             "mineria": 1
+        },
+        "experiencia": {
+            "xp_exploracion": 0,
+            "xp_carpinteria": 0,
+            "xp_mineria": 0
         }
     }
 
