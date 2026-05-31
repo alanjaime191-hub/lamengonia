@@ -8,27 +8,27 @@ items = {
         "valor": 1,
     },
     "madera2" : {
-        "nombre": "Madera2",
+        "nombre": "madera vieja",
         "tipo": "Material",
         "nivel": 2,
         "calidad": 2,
         "valor": 2,
     },
 
-    "piedra" : {
+    "piedra1" : {
         "nombre": "Piedra",
         "tipo": "Material",
         "valor": 1,
     },
 
-        "hierro1" : {
+    "metal1" : {
         "nombre": "Hierro",
         "tipo": "Material",
         "nivel": 1,
         "calidad": 1,
         "valor": 1,
     },
-        "hierro2" : {
+    "metal2" : {
         "nombre": "Hierro2",
         "tipo": "Material",
         "nivel": 2,
@@ -41,4 +41,9 @@ items = {
         "tipo": "Comida",
         "valor": 1
     },
+    "hacha1":{
+        "nombre": "hacha rudimentaria",
+        "tipo": "Herramienta",
+        "valor_base": "20"
+    }
 }
