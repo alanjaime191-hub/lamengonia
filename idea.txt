@@ -1,0 +1,5 @@
+algo como el melvor idle/stardew valley, tirando a recipeMaker
+
+mi idea general es hacer un mapita para ir descubriendo cosas, recetas, consejos, hacerlo medio libre y no tan estricto, corte tener recetas aproximadas y segun que tan bien esten las cantidades, tiempos calidades de materias primas los crafteos tengan tiers, tener zonas y zonas de objetos, corte, bosque 1 aparecen ciertos arboles con ciertas caracteristicas perfectas para ciertos crafteos y así
+
+tambien algo de automatizacion estilo, en una mina que puedas ir explorando nuevas zonas o quedarte en alguna que tenga un deposito grande y puedas meter un taladro que suelte periodicamente materiales especificos y así
